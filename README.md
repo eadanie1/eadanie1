@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eadanie1
 - ⚡ I’m interested in React and DevOps
 - 🌱 I’m currently learning authentication with JWT
-- 💞️ I’m looking to collaborate on any frontend projects
+- 📫 I’m looking to collaborate on any frontend projects
 
 <!---
 - ⚡ Fun fact: ...
