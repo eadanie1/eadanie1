@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eadanie1
 - ⚡ I’m interested in Full Stack projects - React, Node.js and DevOps
 - 🌱 I’m currently working through deployments and will go into Docker Hub shortly
-- 📫 I’m looking to collaborate on any frontend projects
+- 📫 I’m looking to collaborate on any full-stack projects
 
 <!---
 - ⚡ Fun fact: ...
